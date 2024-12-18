@@ -1,6 +1,6 @@
 <h1 align="center">🤖 Jarvis - Your Personal Assistant</h1>
 <h3 align="center">An AI-Powered Assistant with Face Authentication & Voice Commands</h3>
-<h2 align="center">College 5th Sem Project</h2>
+<h2 align="center">College 6th Sem Project</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Project-Active-brightgreen" alt="Project Status">
   <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
